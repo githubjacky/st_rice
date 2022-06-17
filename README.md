@@ -23,3 +23,5 @@
 ### reference
 - [suckless.org](https://st.suckless.org/)
 - [Youtube-The Simple Terminal: st from Suckless, and how I extend it](https://www.youtube.com/watch?v=uqLcvKYl-Ms)
+- [My arch linux set](https://github.com/opottghjk00/archSetup)
+- [My dot files](https://github.com/opottghjk00/dotx)
