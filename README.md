@@ -2,29 +2,29 @@
 *st is a simple terminal emulator for X which sucks less*
 
 
-### Requirements
+## Requirements
 - In order to build st you need the Xlib header files.
 
 
-### scree shot
+## scree shot
 ![st](./picture/01.png)
 
-### Installation
+## Installation
 ```sh
-    sudo make clean install
+    sudo make install
 ```
 
 
-### patch
+## patch
 - st-alpha-0.8.2
 - st-nordtheme-0.8.2
 
 
-### special thanks
+## special thanks
 - [Youtube-The Simple Terminal: st from Suckless, and how I extend it](https://www.youtube.com/watch?v=uqLcvKYl-Ms)
 
 
-### reference
+## reference
 - [suckless.org](https://st.suckless.org/)
 - [My arch linux set](https://github.com/opottghjk00/archSetup)
 - [My dot files](https://github.com/opottghjk00/dotx)
