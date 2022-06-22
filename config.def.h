@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "JetBrainsMonoMedium Nerd Font:pixelsize=25";
+static char *font = "JetBrainsMonoMedium Nerd Font:pixelsize=23";
 static char *font2[] = { "noto-fonts-emoji:pixelsize=15:antialias=true:autohint=true" };
 static int borderpx = 0;
 
